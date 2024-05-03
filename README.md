@@ -1,2 +1,4 @@
-# yasam_tahmini
+
+
+Flutter widget kullanımı için basit bir uygulama
  
